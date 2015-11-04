@@ -2,4 +2,4 @@
 Just another repository
 
 This is the README.
-Don't read READMEs.
+Please do read READMEs.
